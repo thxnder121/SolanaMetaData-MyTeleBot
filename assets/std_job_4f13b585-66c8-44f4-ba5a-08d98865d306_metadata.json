@@ -1,0 +1,21 @@
+{
+    "name": "STANDARD",
+    "symbol": "STD",
+    "description": "Ein super Token, erstellt mit Python und Solana!",
+    "attributes": [],
+    "image": "https://raw.githubusercontent.com/thxnder121/SolanaMetaData-MyTeleBot/main/assets/job_4f13b585-66c8-44f4-ba5a-08d98865d306.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/thxnder121/SolanaMetaData-MyTeleBot/main/assets/job_4f13b585-66c8-44f4-ba5a-08d98865d306.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "8kndXVppQXrfWGANLqe7Uqw8sGT3JSnRyejf7fcjtPCu",
+                "share": 0
+            }
+        ]
+    }
+}
