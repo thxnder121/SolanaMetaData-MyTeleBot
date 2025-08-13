@@ -1,0 +1,21 @@
+{
+    "name": "PLSWORK2",
+    "symbol": "PLS",
+    "description": "",
+    "attributes": [],
+    "image": "https://raw.githubusercontent.com/thxnder121/SolanaMetaData-MyTeleBot/main/assets/job_820fa5e5-6523-4dd8-97f6-d210e08815d5.jpg",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/thxnder121/SolanaMetaData-MyTeleBot/main/assets/job_820fa5e5-6523-4dd8-97f6-d210e08815d5.jpg",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "8kndXVppQXrfWGANLqe7Uqw8sGT3JSnRyejf7fcjtPCu",
+                "share": 0
+            }
+        ]
+    }
+}
