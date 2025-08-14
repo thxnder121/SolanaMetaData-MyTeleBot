@@ -1,0 +1,21 @@
+{
+    "name": "aaaaaaaaa",
+    "symbol": "BBB",
+    "description": "",
+    "attributes": [],
+    "image": "https://raw.githubusercontent.com/thxnder121/SolanaMetaData-MyTeleBot/main/assets/job_66bae6a8-9fe6-4ceb-82e3-4670cb7fe3ab.jpg",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/thxnder121/SolanaMetaData-MyTeleBot/main/assets/job_66bae6a8-9fe6-4ceb-82e3-4670cb7fe3ab.jpg",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "8kndXVppQXrfWGANLqe7Uqw8sGT3JSnRyejf7fcjtPCu",
+                "share": 0
+            }
+        ]
+    }
+}
