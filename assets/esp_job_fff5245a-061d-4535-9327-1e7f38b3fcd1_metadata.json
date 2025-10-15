@@ -1,0 +1,21 @@
+{
+    "name": "Esports 2025",
+    "symbol": "ESP",
+    "description": "",
+    "attributes": [],
+    "image": "https://raw.githubusercontent.com/thxnder121/SolanaMetaData-MyTeleBot/main/assets/job_fff5245a-061d-4535-9327-1e7f38b3fcd1.jpg",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/thxnder121/SolanaMetaData-MyTeleBot/main/assets/job_fff5245a-061d-4535-9327-1e7f38b3fcd1.jpg",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "Ex6Lh7useyGTkQdb3ycJgvsezuFR6ET3davzY94eqFMh",
+                "share": 0
+            }
+        ]
+    }
+}
